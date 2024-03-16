@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>$if(title-prefix)$$title-prefix$ : $endif$$pagetitle$</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
+    rel="stylesheet">
+  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.css" rel="stylesheet">
+  $for(header-includes)$
+  $header-includes$
+  $endfor$
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="index.html">
+      <span class="d-block d-sm-none">IFDS 2024</span>
+      <span class="d-none d-sm-block d-lg-none">International Forum Data Science (IFDS)</span>
+      <span class="d-none d-lg-block">
+        <!-- <img class="img-fluid" style="margin-top:-20px" src="photos/ifds.png" width="55%" alt="">
+	  <br> -->
+        <span class="big-title">International<br>Forum<br>Data Science<br>2024</span>
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a $if(navbar-home)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger" $endif$
+            href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-keynotes)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="keynotes.html">Keynotes</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-challenge)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="challenge.html">Data Challenge</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-posters)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="posters.html">Posters</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-workshops)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="workshops.html">Workshops</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-program)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="program.html">Program</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-venue)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="venue.html">Venue</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-registration)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="registration.html">Registration</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-committees)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="committees.html">Committees</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-resources)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="resources.html">Resources</a>
+        </li>
+        <li class="nav-item">
+          <a $if(navbar-sponsors)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="sponsors.html">Sponsors</a>
+        </li>
+        <!-- <li class="nav-item">
+          <a $if(navbar-history)$class="nav-link js-scroll-trigger active" $else$class="nav-link js-scroll-trigger"
+            $endif$ href="https://uconnsportsanalytics.org/symposium.html">History</a>
+        </li> -->
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="$title$"> <!-- section introduction -->
+      <div class="my-auto">
+        $if(title-home)$ $else$
+        <h3 class="mb-3" style="margin-top:-10px">$title$</h3>
+        $endif$
+        $body$
+      </div>
+      <footer id="footer">
+        <hr width="200px" align="left">
+        <p>&copy; 2024 <a href="https://statds.org" target="_blank" rel="noopener">Connecticut Data Science Lab</a></p>
+      </footer>
+    </section> <!-- end section program -->
+
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.js"></script>
+
+</body>
+
+</html>

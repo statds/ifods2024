@@ -1,0 +1,20 @@
+variables:
+  S3_BUCKET_NAME: "statds.org"
+  dis_id: "E3DVVXYMMAN6SE"
+
+image: debian:buster-slim
+
+production:
+  stage: deploy
+  before_script:
+  - apt-get update
+  - apt-get -qq install python python-pip ca-certificates
+  - pip install awscli
+  - apt-get -y install pandoc
+  script:
+  - bash compile.sh
+  - aws s3 sync html/ s3://$S3_BUCKET_NAME/events/ifds2024/
+  - aws configure set preview.cloudfront true
+  - aws cloudfront create-invalidation --distribution-id $dis_id --paths '/*'
+  only:
+  - main
