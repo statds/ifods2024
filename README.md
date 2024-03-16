@@ -44,7 +44,7 @@ The available targets include:
 
 
 
-[ci-svg]: https://gitlab.com/statds/ifds2024/badges/master/pipeline.svg
-[repo]: https://gitlab.com/statds/ifds2024/commits/master
+[ci-svg]: https://gitlab.com/statds/ifds2024/badges/main/pipeline.svg
+[repo]: https://gitlab.com/statds/ifds2024/commits/main
 [IFDS2024]: https://statds.org/events/ifds2024
 [aws-conf]: http://docs.aws.amazon.com/cli/latest/reference/configure/
