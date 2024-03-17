@@ -20,8 +20,8 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get -qq install python python-pip ca-certificates
-        pip install awscli
+        sudo apt-get -qq install python3 python3-pip ca-certificates
+        pip3 install awscli
         sudo apt-get -y install pandoc
 
     - name: Set up AWS credentials
