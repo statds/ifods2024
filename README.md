@@ -1,17 +1,19 @@
-# IFDS 2024
+# IFODS 2024
 
-[![pipeline status][ci-svg]][repo]
+
+![Deploy status](https://github.com/statds/ifods2024/actions/workflows/main.yml/badge.svg)
+
 
 ## Pipeline
 
-GitLab CI has been set up for `master` branch and triggered by each
+GitHub actions has been set up for `main` branch and triggered by each
 git push soon. The contents under the directory `html/` is
-publicly accessible at [https://statds.org/events/IFDS2024/][IFDS2024].
+publicly accessible at [IFDS2024](https://statds.org/events/ifods2024/).
 
-The pipeline shares the monthly quota of the `statds` group.  Therefore, if we
+<!-- The pipeline shares the monthly quota of the `statds` group.  Therefore, if we
 want to push commits that are not related with the web contents under `html/`,
 we may add `[skip ci]` or `[ci skip]` to the commit comments to let CI skip the
-deployment.
+deployment. -->
 
 
 ## Setup
@@ -44,7 +46,6 @@ The available targets include:
 
 
 
-[ci-svg]: https://gitlab.com/statds/ifds2024/badges/main/pipeline.svg
-[repo]: https://gitlab.com/statds/ifds2024/commits/main
-[IFDS2024]: https://statds.org/events/ifds2024
+[repo]: https://github.com/statds/ifods2024/commits/main/
+[IFODS2024]: https://statds.org/events/ifods2024
 [aws-conf]: http://docs.aws.amazon.com/cli/latest/reference/configure/
