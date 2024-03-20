@@ -4,7 +4,7 @@ title: IFoDS 2024 Program
 
 All times are **Beijing Time**. 
 
-**Proposed version**
+**Draft version, subject to change**
 
 **Sunday, July 21 2024
 
