@@ -6,7 +6,7 @@ All times are **Beijing Time**.
 
 **Draft version, subject to change**
 
-**Sunday, July 21 2024
+**Sunday, July 21 2024**
 
 + 08:30-08:40: Welcoming remarks
 + 08:40-09:25: Keynote presentation 1
