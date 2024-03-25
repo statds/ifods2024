@@ -33,6 +33,6 @@ Participants are encouraged to submit their works for publication to
 the Journal of Data Science.
 
 
-As a follow-up of this Forum，we warmly invite submissions for a special issue of Journal of Data Science titled “New Frontiers of Data Science: Honoring Prof. Xizhi Wu’s Impact and Vision.”
+As a follow-up of this Forum, we warmly invite submissions for a special issue of Journal of Data Science titled “New Frontiers of Data Science: Honoring Prof. Xizhi Wu’s Impact and Vision.”
 
 
