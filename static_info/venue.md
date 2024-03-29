@@ -3,6 +3,7 @@ title: Venue
 ---
 
 The event will be held at Renmin University of China, Beijing, China  
+
 + Airports:     
 &emsp;&emsp;Beijing Capital International Airport (35km)   
 &emsp;&emsp;Taxi takes about 1 hour;   
