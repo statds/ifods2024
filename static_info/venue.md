@@ -33,16 +33,16 @@ The event will be held at Renmin University of China, Beijing, China
 
 + [Beijing Yanshan Hotel](http://yanshan.hotels-inbeijing.com/cn/) (400m)     
 &emsp;&emsp;Address: No. 38, Zhongguancun Street A, Haidian District    
-&emsp;&emsp;Walking takes 7 minutes (for the east gate).     
+&emsp;&emsp;Walking takes about 7 minutes (for the east gate).     
 + [Friendship Hotel](http://www.bjfriendshiphotel.com/) (700m)    
 &emsp;&emsp;Address: No.1, Zhongguancun South Street, Haidian District    
-&emsp;&emsp;Walking takes 10 minutes (for the east gate).      
+&emsp;&emsp;Walking takes about 10 minutes (for the east gate).      
 + [ARIVA Beijing West Hotel](http://ariva.hotels-inbeijing.com/cn/) (700m)    
 &emsp;&emsp;Address: No. 36, Zhongguancun South Street, Haidian District    
-&emsp;&emsp;Walking takes 10 minutes (for the west gate).   
+&emsp;&emsp;Walking takes about 10 minutes (for the west gate).   
 + [Crowne Plaza Beijing Zhongguancun](https://www.ihg.com/crowneplaza/hotels/us/en/beijing/pegzg/hoteldetail) (1200m)    
 &emsp;&emsp;Address: No. 106, Zhi Chun Road, Haidian District    
-&emsp;&emsp;Walking takes 20 minutes (for the east gate).   
+&emsp;&emsp;Walking takes about 20 minutes (for the east gate).   
 
 
 
