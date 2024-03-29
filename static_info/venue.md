@@ -6,14 +6,14 @@ The event will be held at Renmin University of China, Beijing, China
 
 **Give flying/driving/walking directions here**
 
-Airports:     
++ Airports:     
 &emsp;&emsp;Beijing Capital International Airport (35km)   
 &emsp;&emsp;Taxi takes about 1 hour;   
 &emsp;&emsp;Airport shuttle bus (Line 4-Gongzhufen, Friendship Hotel stop) takes about 1.5 hours.   
 &emsp;&emsp;Beijing Daxing International Airport (60km)     
 &emsp;&emsp;Taxi takes about 1.5 hours;    
 &emsp;&emsp;Airport shuttle bus (Line Zhongguancun,  Sitongqiao stop) takes about 1.5 hours.    
-Train Stations:   
++ Train Stations:   
 &emsp;&emsp;Beijing Railway Station (21 km)   
 &emsp;&emsp;Taxi takes about 1 hour.   
 &emsp;&emsp;Beijing South Railway Station (20 km)   
@@ -24,7 +24,7 @@ Train Stations:
 &emsp;&emsp;Taxi takes about 0.5 hours.   
 &emsp;&emsp;Beijing East Railway Station (25 km)   
 &emsp;&emsp;Taxi takes about 1 hour.  
-Subway:   
++ Subway:   
 &emsp;&emsp;Line 4, Renmin University Station, A1 exit;   
 &emsp;&emsp;Line 10, Suzhou Street Station, D exit;   
 &emsp;&emsp;Line 10, Haidianhuangzhuang Station, D exit.
