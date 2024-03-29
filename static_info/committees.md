@@ -23,6 +23,6 @@ title: Committees
 
 #### Student Volunteers
 
-+ Pengxi Wu, Undergraduate Student
 + Wenxuan Song, Undergraduate Student
-+ Jiaheng Wang, Undergraduate Student
++ Jiaheng Wang, Undergraduate Student  
++ Pengxi Wu, Undergraduate Student
