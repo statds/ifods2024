@@ -194,14 +194,4 @@ All times are **Beijing Time**.
     <td class="xl71" x:str>U.S.-U.K. PETs Prize Challenge: Anomaly Detection via Privacy-Enhanced Federated Learning</td>
     <td colspan="19" style='mso-ignore:colspan;'></td>
    </tr>
-   <![if supportMisalignedColumns]>
-    <tr width="0" style='display:none;'>
-     <td width="155" style='width:77;'></td>
-     <td width="420" style='width:210;'></td>
-     <td width="197" style='width:98;'></td>
-     <td width="156" style='width:78;'></td>
-     <td width="414" style='width:207;'></td>
-     <td width="1125" style='width:563;'></td>
-    </tr>
-   <![endif]>
   </table>
