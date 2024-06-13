@@ -34,13 +34,9 @@ target="_blank" rel="noopener">Chuanhai Liu</a></h4>
 #### Title: First Principles of Advanced Data Analysis: the Prediction Principle
 
 Abstract: This era of big data is fascinating for data analysis in particular and statistics in general. It has also clearly revealed more than ever different scientific attitudes toward data analysis and statistical research from different perspectives. As statisticians, we see both challenges and responsibility for foundational developments in both statistical inference and scientific modeling. This talk introduces a new principle, called the prediction principle. We argue that this principle can serve as a first principle for valid and efficient inference by exploring its implications in three key research directions: 
-
-&emsp;&emsp;(a) how the prediction principle can be used to refine both the principle of maximum likelihood and the likelihood principle,
-
-&emsp;&emsp;(b) how statistical inference should be formalized, as the required reasoning is deductive, and
-
-&emsp;&emsp;(c) how a general theory of scientific modeling might be achievable, despite the inherent challenges of inductive reasoning.
-
++ how the prediction principle can be used to refine both the principle of maximum likelihood and the likelihood principle,
++ how statistical inference should be formalized, as the required reasoning is deductive, and
++ how a general theory of scientific modeling might be achievable, despite the inherent challenges of inductive reasoning.
 These discussions are illustrated using seemingly simple but unsolved problems in high-dimensional statistics and deep learning models. To prompt deeper reflections, the talk concludes with a few challenging problems.
 
 
