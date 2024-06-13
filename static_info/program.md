@@ -10,15 +10,15 @@ All times are **Beijing Time**.
 
 <table>
    <col width="140" style='mso-width-source:userset;mso-width-alt:3296;'/>
-   <col width="120" style='mso-width-source:userset;mso-width-alt:8960;'/>
-   <col width="160" style='mso-width-source:userset;mso-width-alt:4192;'/>
+   <col width="240" style='mso-width-source:userset;mso-width-alt:8960;'/>
+   <col width="140" style='mso-width-source:userset;mso-width-alt:4192;'/>
    <col width="160" style='mso-width-source:userset;mso-width-alt:3328;'/>
    <col width="200" style='mso-width-source:userset;mso-width-alt:8832;'/>
    <col width="350" style='mso-width-source:userset;mso-width-alt:24000;'/>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl65" height="30" width="140" style='height:30.00pt;width:77.25pt;border-left:.5pt solid windowtext;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'></td>
-    <td class="xl66" width="120" style='width:100.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Session__</td>
-    <td class="xl66" width="160" style='width:98.25pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Chair__</td>
+    <td class="xl66" width="240" style='width:100.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Session__</td>
+    <td class="xl66" width="140" style='width:98.25pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Chair__</td>
     <td class="xl66" width="160" style='width:78.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Speaker__</td>
     <td class="xl66" width="200" style='width:207.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Institution__</td>
     <td class="xl66" width="350" style='width:562.50pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Title__</td>
