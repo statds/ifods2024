@@ -42,9 +42,9 @@ All times are **Beijing Time**.
         <td> </td> 
     </tr>
     <tr>
-        <td rowspan="2">13:30-15:10</td>
-        <td rowspan="2">Complex Data Analysis</td>
-        <td rowspan="2">马平</td> 
+        <td rowspan="4">13:30-15:10</td>
+        <td rowspan="4">Complex Data Analysis</td>
+        <td rowspan="4">马平</td> 
         <td>金哲振</td> 
         <td>哥伦比亚大学</td> 
         <td>On detecting the effect of exposure mixture</td> 
@@ -65,9 +65,9 @@ All times are **Beijing Time**.
         <td>Forecasting Interval for Autoregressive Time Series with trends</td> 
     </tr>
     <tr>
-        <td rowspan="2">15:30-17:10</td>
-        <td rowspan="2">Efficient Analysis in Statistics and Related Fields</td>
-        <td rowspan="2">金哲振</td> 
+        <td rowspan="4">15:30-17:10</td>
+        <td rowspan="4">Efficient Analysis in Statistics and Related Fields</td>
+        <td rowspan="4">金哲振</td> 
         <td>蒋建成</td> 
         <td>University of North Carolina</td> 
         <td>Partition-Insensitive Parallel ADMM Algorithm for High-dimensional Linear Models</td> 
@@ -91,9 +91,9 @@ All times are **Beijing Time**.
         <td> </td> 
     </tr>
     <tr>
-        <td rowspan="2">13:30-15:10</td>
-        <td rowspan="2">Mordern Statitistical Methods and Applications</td>
-        <td rowspan="2">黄辉</td> 
+        <td rowspan="4">13:30-15:10</td>
+        <td rowspan="4">Mordern Statitistical Methods and Applications</td>
+        <td rowspan="4">黄辉</td> 
         <td>黄丹阳</td> 
         <td>中国人民大学</td> 
         <td>Transfer Learning in High-Dimensional Network Regression Model</td> 
@@ -114,9 +114,9 @@ All times are **Beijing Time**.
         <td>Unified Principal Components Analysis of Irregularly Observed Functional Time Series</td> 
     </tr>
     <tr>
-        <td rowspan="2">15:30-17:10</td>
-        <td rowspan="2">Machine Learning and Data Science</td>
-        <td rowspan="2">王菲菲</td> 
+        <td rowspan="4">15:30-17:10</td>
+        <td rowspan="4">Machine Learning and Data Science</td>
+        <td rowspan="4">王菲菲</td> 
         <td>周峰</td> 
         <td>中国人民大学</td> 
         <td>Accelerating Convergence in Bayesian Few-Shot Classification</td> 
