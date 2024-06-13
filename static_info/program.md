@@ -18,11 +18,11 @@ All times are **Beijing Time**.
    <col width="108" span="19" style='width:54.00pt;'/>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl65" height="30" width="154.50" style='height:15.00pt;width:77.25pt;'></td>
-    <td class="xl66" width="420" style='width:210.00pt;' x:str>Session</td>
-    <td class="xl66" width="196.50" style='width:98.25pt;' x:str>Session Chair</td>
-    <td class="xl66" width="156" style='width:78.00pt;' x:str>报告嘉宾</td>
-    <td class="xl66" width="414" style='width:207.00pt;' x:str>报告人单位</td>
-    <td class="xl66" width="1125" style='width:562.50pt;' x:str>报告题目</td>
+    <td class="xl66" width="420" style='width:210.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>__Session__</td>
+    <td class="xl66" width="196.50" style='width:98.25pt;' x:str>__Session Chair__</td>
+    <td class="xl66" width="156" style='width:78.00pt;' x:str>__报告嘉宾__</td>
+    <td class="xl66" width="414" style='width:207.00pt;' x:str>__报告人单位__</td>
+    <td class="xl66" width="1125" style='width:562.50pt;' x:str>__报告题目__</td>
     <td width="108" style='width:54.00pt;'></td>
     <td width="108" style='width:54.00pt;'></td>
     <td width="108" style='width:54.00pt;'></td>
