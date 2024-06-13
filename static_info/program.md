@@ -8,7 +8,7 @@ All times are **Beijing Time**.
 
 **Sunday, July 21 2024**
 
-<table width="4518" border="0" cellpadding="0" cellspacing="0" style='width:2259.00pt;border-collapse:collapse;table-layout:fixed;'>
+<table>
    <col width="100" style='mso-width-source:userset;mso-width-alt:3296;'/>
    <col width="120" style='mso-width-source:userset;mso-width-alt:8960;'/>
    <col width="100" style='mso-width-source:userset;mso-width-alt:4192;'/>
