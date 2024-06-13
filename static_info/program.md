@@ -9,17 +9,17 @@ All times are **Beijing Time**.
 **Sunday, July 21 2024**
 
 <table width="4518" border="0" cellpadding="0" cellspacing="0" style='width:2259.00pt;border-collapse:collapse;table-layout:fixed;'>
-   <col width="90" style='mso-width-source:userset;mso-width-alt:3296;'/>
+   <col width="100" style='mso-width-source:userset;mso-width-alt:3296;'/>
    <col width="120" style='mso-width-source:userset;mso-width-alt:8960;'/>
    <col width="100" style='mso-width-source:userset;mso-width-alt:4192;'/>
-   <col width="100" style='mso-width-source:userset;mso-width-alt:3328;'/>
+   <col width="120" style='mso-width-source:userset;mso-width-alt:3328;'/>
    <col width="200" style='mso-width-source:userset;mso-width-alt:8832;'/>
    <col width="360" style='mso-width-source:userset;mso-width-alt:24000;'/>
    <tr height="30" style='height:15.00pt;'>
-    <td class="xl65" height="30" width="90" style='height:30.00pt;width:77.25pt;border-left:.5pt solid windowtext;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'></td>
+    <td class="xl65" height="30" width="100" style='height:30.00pt;width:77.25pt;border-left:.5pt solid windowtext;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'></td>
     <td class="xl66" width="120" style='width:100.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Session__</td>
     <td class="xl66" width="100" style='width:98.25pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __Session Chair__</td>
-    <td class="xl66" width="100" style='width:78.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __报告嘉宾__</td>
+    <td class="xl66" width="120" style='width:78.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __报告嘉宾__</td>
     <td class="xl66" width="200" style='width:207.00pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __报告人单位__</td>
     <td class="xl66" width="360" style='width:562.50pt;border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  __报告题目__</td>
    </tr>
@@ -49,7 +49,6 @@ All times are **Beijing Time**.
    </tr>
    <tr height="31" style='height:15.50pt;'>
     <td class="xl72" height="31" colspan="6" style='height:15.50pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'></td>
-    <td class="xl69" colspan="19" style='mso-ignore:colspan;'></td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl75" height="120" rowspan="4" style='height:60.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  13:30-15:10</td>
@@ -76,7 +75,6 @@ All times are **Beijing Time**.
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl81" height="30" colspan="6" style='height:15.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'></td>
-    <td class="xl69" colspan="19" style='mso-ignore:colspan;'></td>
    </tr>
    <tr height="73.50" style='height:36.75pt;mso-height-source:userset;mso-height-alt:735;'>
     <td class="xl84" height="163.50" rowspan="4" style='height:81.75pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  15:30-17:10</td>
@@ -103,7 +101,6 @@ All times are **Beijing Time**.
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl81" height="30" colspan="6" style='height:15.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'></td>
-    <td colspan="19" style='mso-ignore:colspan;'></td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl84" height="120" rowspan="4" style='height:60.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  13:30-15:10</td>
@@ -130,7 +127,6 @@ All times are **Beijing Time**.
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl97" height="30" colspan="6" style='height:15.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'></td>
-    <td colspan="19" style='mso-ignore:colspan;'></td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl84" height="150" rowspan="4" style='height:75.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  15:30-17:10</td>
