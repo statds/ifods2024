@@ -100,9 +100,9 @@ All times are **Beijing Time**.
     <td class="xl81" height="30" colspan="6" style='height:15.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;'>__Parallel Session B__</td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
-    <td class="xl84" height="120" rowspan="4" style='height:60.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  13:30-15:10</td>
-    <td class="xl91" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Mordern Statitistical Methods and Applications</td>
-    <td class="xl92" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Hui Huang</td>
+    <td class="xl84" height="120" rowspan="5" style='height:60.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  13:30-15:10</td>
+    <td class="xl91" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Mordern Statitistical Methods and Applications</td>
+    <td class="xl92" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Hui Huang</td>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Wu Wang</td>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of China</td>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  A Stock Price Trend Prediction Model Based on Supply Chain Matrix</td>
