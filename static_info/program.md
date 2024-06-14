@@ -78,7 +78,7 @@ All times are **Beijing Time**.
     <td class="xl85" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Efficient Analysis in Statistics and Related Fields</td>
     <td class="xl84" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Ping Ma</td>
     <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Danyang Huang</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of Chian</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of China</td>
     <td class="xl86" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Transfer Learning in High-Dimensional Network Regression Model</td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
