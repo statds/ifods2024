@@ -20,6 +20,7 @@ title-home: False
 + [Haonan Wang](https://www.stat.colostate.edu/~wanghn/), Colorado State University
 + [Wu Wang](http://stat.ruc.edu.cn/Home/People/Faculty/a77f6c4ef4ed4da983e7aa9e93a54751.htm), Renmin University of China
 + [Xinyue Wang](https://www.charonwangg.com/), Rutgers University
++ [Mengyu Xu](https://sciences.ucf.edu/statistics/person/mengyu-xu/), University of North Carolina
 + [Jie Yang](https://mscs.uic.edu/profiles/jyang06/), University of Illinois at Chicago
 + [Wenxuan Zhong](https://www.stat.uga.edu/directory/people/wenxuan-zhong), University of Georgia
 + [Feng Zhou](http://stat.ruc.edu.cn/jxtd/jsdw/sjkxydsjtjx/3cc384c46e9541c582fa7413fee43648.htm), Renmin University of China

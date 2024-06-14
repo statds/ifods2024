@@ -53,10 +53,10 @@ All times are **Beijing Time**.
    <tr height="30" style='height:15.00pt;'>
     <td class="xl75" height="120" rowspan="4" style='height:60.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  13:30-15:10</td>
     <td class="xl76" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Complex Data Analysis</td>
-    <td class="xl75" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Ping Ma</td>
-    <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Zhezhen Jin</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Columbia University</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  On detecting the effect of exposure mixture</td>
+    <td class="xl75" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Zhezhen Jin</td>
+    <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Yue Liu</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of China</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Quantifying Individual Risk for Binary Outcome: Bounds and Inference</td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Wenxuan Zhong</td>
@@ -69,17 +69,17 @@ All times are **Beijing Time**.
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Statistics in Hospital Research and Quality Improvement Projects</td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
-    <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Qin Shao</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  University of Toledo</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Forecasting Interval for Autoregressive Time Series with trend</td>
+    <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Zhezhen Jin</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Columbia University</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  On detecting the effect of exposure mixture</td>
    </tr>
    <tr height="73.50" style='height:36.75pt;mso-height-source:userset;mso-height-alt:735;'>
     <td class="xl84" height="163.50" rowspan="4" style='height:81.75pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  15:30-17:10</td>
     <td class="xl85" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Efficient Analysis in Statistics and Related Fields</td>
-    <td class="xl84" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Zhezhen Jin</td>
-    <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Jiancheng Jiang</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  University of North Carolina</td>
-    <td class="xl86" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Partition-Insensitive Parallel ADMM Algorithm for High-dimensional Linear Models</td>
+    <td class="xl84" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Ping Ma</td>
+    <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Danyang Huang</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of Chian</td>
+    <td class="xl86" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Transfer Learning in High-Dimensional Network Regression Model</td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
     <td class="xl67" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Haonan Wang</td>
@@ -103,11 +103,6 @@ All times are **Beijing Time**.
     <td class="xl84" height="120" rowspan="4" style='height:60.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  13:30-15:10</td>
     <td class="xl91" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Mordern Statitistical Methods and Applications</td>
     <td class="xl92" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Hui Huang</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Danyang Huang</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of China</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Transfer Learning in High-Dimensional Network Regression Model</td>
-   </tr>
-   <tr height="30" style='height:15.00pt;'>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Wu Wang</td>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of China</td>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  A Stock Price Trend Prediction Model Based on Supply Chain Matrix</td>
@@ -123,6 +118,16 @@ All times are **Beijing Time**.
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Unified Principal Components Analysis of Irregularly Observed Functional Time Series</td>
    </tr>
    <tr height="30" style='height:15.00pt;'>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Qin Shao</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  University of Toledo</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Forecasting Interval for Autoregressive Time Series with trend</td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Mengyu Xu</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  University of Central Florida</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Inference for Quantile Change Points in High-Dimensional Time Series</td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
     <td class="xl84" height="150" rowspan="4" style='height:75.00pt;border-left:.5pt solid windowtext;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  15:30-17:10</td>
     <td class="xl100" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Machine Learning and Data Science</td>
     <td class="xl92" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Feifei Wang</td>
@@ -136,13 +141,13 @@ All times are **Beijing Time**.
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  A Variable Selection Tree and Its Random Forest</td>
    </tr>
    <tr height="60" style='height:30.00pt;'>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Yue Liu</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Renmin University of China</td>
-    <td class="xl86" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Quantifying Individual Risk for Binary Outcome:<br/>Bounds and Inference</td>
-   </tr>
-   <tr height="30" style='height:15.00pt;'>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Xinyue Wang</td>
     <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Rutgers University</td>
-    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  U.S.-U.K. PETs Prize Challenge: Anomaly Detection via Privacy-Enhanced Federated Learning</td>
+    <td class="xl86" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  U.S.-U.K. PETs Prize Challenge: Anomaly Detection via Privacy-Enhanced Federated Learning</td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Jiancheng Jiang</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  University of North Carolina</td>
+    <td class="xl71" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>  Partition-Insensitive Parallel ADMM Algorithm for High-dimensional Linear Models</td>
    </tr>
   </table>
