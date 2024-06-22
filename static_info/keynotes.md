@@ -15,7 +15,7 @@ target="_blank" rel="noopener">Songxi Chen</a></h4>
 
 #### Title: Digital Twin of Economic Systems
 
-<strong>Abstract<strong>: A digital twin of a system is a high-precision numerical simulation based on the integration of system models and observational data, representing the pinnacle of understanding of that system. I will discuss the importance and feasibility of establishing a digital twin for the Chinese economic system, as well as the requirements for high spatiotemporal resolution economic datasets and the development of large-scale econometric models. 
+<strong>Abstract:</strong> A digital twin of a system is a high-precision numerical simulation based on the integration of system models and observational data, representing the pinnacle of understanding of that system. I will discuss the importance and feasibility of establishing a digital twin for the Chinese economic system, as well as the requirements for high spatiotemporal resolution economic datasets and the development of large-scale econometric models. 
 
 
 ![Songxi Chen](photos/SongxiChen.jpg){.imgfloat}
@@ -34,7 +34,7 @@ target="_blank" rel="noopener">Chuanhai Liu</a></h4>
 
 #### Title: First Principles of Advanced Data Analysis: the Prediction Principle
 
-<strong>Abstract<strong>: This era of big data is fascinating for data analysis in particular and statistics in general. It has also clearly revealed more than ever different scientific attitudes toward data analysis and statistical research from different perspectives. As statisticians, we see both challenges and responsibility for foundational developments in both statistical inference and scientific modeling. This talk introduces a new principle, called the prediction principle. We argue that this principle can serve as a first principle for valid and efficient inference by exploring its implications in three key research directions: 
+<strong>Abstract:</strong> This era of big data is fascinating for data analysis in particular and statistics in general. It has also clearly revealed more than ever different scientific attitudes toward data analysis and statistical research from different perspectives. As statisticians, we see both challenges and responsibility for foundational developments in both statistical inference and scientific modeling. This talk introduces a new principle, called the prediction principle. We argue that this principle can serve as a first principle for valid and efficient inference by exploring its implications in three key research directions: 
 
 + how the prediction principle can be used to refine both the principle of maximum likelihood and the likelihood principle,
 + how statistical inference should be formalized, as the required reasoning is deductive, and
