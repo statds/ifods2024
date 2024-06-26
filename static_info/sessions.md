@@ -152,6 +152,18 @@ time-dependent coviarates into account. Thank you for inviting me to this valuab
 
 <strong>Bio:</strong> 黄丹阳：中国人民大学统计学院教授，博士生导师。主持国家自然科学基金面上项目，北京市社会科学基金重点项目等省部级及以上科研课题，入选北京市科协青年人才托举工程，曾获北京市优秀人才培养资助。长期从事复杂网络建模、超高维数据分析、分布式计算等方向的理论研究，以及统计理论研究在中小微企业信用风险评估，企业数字化发展中的应用研究。在Journal of the Royal Statistical Society：Series B (Statistical Methodology),Journal of Econometrics, Journal of Business & Economic Statistics等国内外权威期刊发表论文30余篇。
 
+
+#### Interval-censored linear quantile regression
+
+##### Sangbum Choi, Korea University
+
+<strong>Abstract:</strong> Censored quantile regression has emerged as a prominent alternative to classical Cox’s proportional hazards model or accelerated failure time model in both theoretical and applied statistics. While quantile regression has been extensively studied for right-censored survival data, methodologies for analyzing interval-censored data remain limited in the survival analysis literature. This paper introduces a novel local weighting approach for estimating linear censored quantile regression, specifically tailored to handle diverse forms of interval-censored survival data. The estimation equation and the corresponding convex objective function for the regression parameter can be constructed as a weighted average of quantile loss contributions at two interval endpoints. The weighting components are nonparametrically estimated using local kernel smoothing or ensemble machine learning techniques. To estimate the nonparametric distribution mass for interval-censored data, a modified EM algorithm for nonparametric maximum likelihood estimation is employed by introducing subject-specific latent Poisson variables. The proposed method’s empirical performance is demonstrated through extensive simulation studies and real data analyses of two HIV/AIDS datasets.
+
+
+<strong>Bio:</strong> Dr. Sangbum Choi received his Ph.D degree of Statistics in 2010 from University of Wisconsin at Madison. He was an assistant professor in Biostatistics at The University of Texas Health Science Center at Houston and now he is a full professor in Statistics at Korea University. His research interest covers semiparametric methods in survival analysis, joint modeling, longitudinal data analysis and actuarial data science.
+
+
+
 #### Recent developments for multi-channel factor analysis
 
 ##### Haonan Wang, Colorado State University
@@ -185,14 +197,6 @@ In this talk, I will present challenges and opportunities for developing quantum
 <strong>Bio:</strong> Professor Ma is a Distinguished Research Professor in the Department of Statistics at the University of Georgia and co-director of the big data analytics lab. He was a Beckman Fellow at the Center for Advanced Study at the University of Illinois at Urbana-Champaign, a Faculty Fellow at the US National Center for Supercomputing Applications, and a recipient of the National Science Foundation CAREER Award. His paper won the best paper award from the Canadian Journal of Statistics in 2011. He delivered the 2021 National Science Foundation Distinguished Lecture. Professor Ma serves on multiple editorial boards. He is a Fellow of the American Association for the Advancement of Science and the American Statistical Association.
 
 
-#### Two variable screening procedures with restrictions on the positive or negative effects
-
-##### BoJuan Zhao, Tianjin University of Finance and Economics
-
-<strong>Abstract:</strong> In this paper, two variable screening procedures, the local significant forward and backward procedure with restrictions on the positive or negative effects (FBRPN) and the backward procedure with restrictions on the positive or negative effects (BRPN), are proposed to obtain meaningful protective and risk factors in fast and sequential ways in models with a linear component such as the Generalized Linear Models to avoid multicollinearity. The two fitted models from the two procedures are compared to obtain the most efficient model and the representative variables of the original predictive variables. The new procedures are not prediction-driven, and are compared with traditional prediction-driven procedures including the forward, backward, stepwise and best subsets regression in three illustration examples. Simulation studies are carried out to show the effectiveness of the new procedures. Finally, practical issues are discussed, and applications of the new procedures in big data analysis are envisioned.
-
-
-<strong>Bio:</strong> 参会申请人毕业于南开大学数学系 (数理统计专业, 博士)，曾在美国美国南卫理公会大学（Southern Methodist University）和美国哈佛大学 (Harvard School of Public Health)做过博士后研究， 在美国,Meharry Medical College工作，现在天津财经大学工作（教授、博导）。 参会申请人多年来一直从事生物统计、人口统计和有关统计模型方法研究，在国内外重要学术刊物Statistics in Medicine, American Journal of Epidemiology, Communications in Statistics – Theory and Methods, Scandinavian Actuarial Journal, Population Studies, Journal of Applied Statistics 《统计研究》等SCI、SSCI、CSCI期刊发表学术论文20 余篇。
 
 </div>
 
