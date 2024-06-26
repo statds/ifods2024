@@ -25,11 +25,11 @@ All times are **Beijing Time**.
       + Inference for Quantile Change Points in High-Dimensional Time Series(Speaker: Mengyu Xu)
 + 15:30-17:30:
    + Parallel Session A: Efficient Analysis in Statistics and Related Fields(Chair: Ping Ma)
-      + Transfer Learning in High-Dimensional Network Regression Model (Speaker: Danyang Huang)
+      + Transfer Learning in High-Dimensional Network Regression Model(Speaker: Danyang Huang)
+      + Interval-censored linear quantile regression(Speaker: Sangbum Choi)
       + Recent developments for multi-channel factor analysis(Speaker: Haonan Wang)
       + Statistical Models for Categorical Data Analysis(Speaker: Jie Yang)
       + Statistical Computing Meets Quantum Computing(Speaker: Ping Ma)
-      + Two variable screening procedures with restrictions on the positive or negative effects(Speaker: Bojuan Zhao)
    + Parallel Session B: Machine Learning and Data Science(Chair: Feifei Wang)
       + Accelerating Convergence in Bayesian Few-Shot Classification(Speaker: Feng Zhou)
       + A Variable Selection Tree and Its Random Forest(Speaker: Zhibo Cai)
