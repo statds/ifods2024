@@ -88,10 +88,10 @@ time-dependent coviarates into account. Thank you for inviting me to this valuab
 
 ##### Wu Wang, Renmin University of China
 
-<strong>Abstract:</strong> 产业链网络是市场主体间业务往来关系的表征，处于同一链条上的企业经营状况密不可分。以往，产业链分析方法主要被主观投资者所采用，但受限于数据，未能在量化投资中得到充分利用。随着自然语言处理技术的成熟，数据供应商可以从年报中提取公司与产品之间的关系，进一步结合专家经验构建产业链的上下游关系。在此基础上，我们计算上市公司之间的基于产业链相互关联的矩阵，随后将此矩阵作为先验信息引入到图神经网络模型中。实验结果表明，本文提出的模型相较于基准 GRU 模型在测试集上具有更好的预测性能，IC 均值显著提高， IC 标准差有所下降。这一结果与已有研究相符，同时本文所选取的股票池和图结构信息的差异使其成为该领域的一项补充。此外，本研究还对模型结构、回望期数、训练标签等进行了大量实验和详细解释。
+<strong>Abstract:</strong> This work explores the integration of industry chain network matrices into graph neural network models to enhance the predictive ability of deep learning factors for future stock returns. Historically, subjective investors have predominantly utilized industry chain analysis methods but have been constrained by data limitations, preventing their full utilization in quantitative investment. With natural language processing technology's maturation, data providers can extract relationships between companies and products from annual reports, combining expert knowledge to construct industry chain upstream and downstream relationships. Based on this foundation, we compute a matrix of interrelatedness between listed companies derived from the industry chain. Subsequently, this matrix is introduced into the graph neural network model as prior information. Experimental results demonstrate that our proposed model outperforms the baseline GRU model in terms of predictive performance on the test set, with significantly increased IC mean values and decreased IC standard deviations. This finding is consistent with existing research, while the differences in the stock pool and graph structure information selected in this study contribute as a supplement to the field. Additionally, this research extensively explores and explains the model structure, lookback periods, training labels, and other factors through numerous experiments.
 
 
-<strong>Bio:</strong> 王武，中国人民大学数理统计系讲师，复旦大学数理统计博士。主要研究方向是函数型数据分析、空间数据分析、机器学习和深度学习方法在能源、工业领域的应用等。成果发表于Biometrics，Scandinavian Journal of Statistics等期刊。
+<strong>Bio:</strong> 王武，中国人民大学数理统计系讲师，沙特阿拉伯阿卜杜拉国王科技大学博士后，复旦大学数理统计博士。主要研究方向是函数型数据分析、空间数据分析、机器学习和深度学习方法在能源、工业领域的应用等。成果发表于Biometrics，Scandinavian Journal of Statistics等期刊。
 
 
 #### Testing conditional quantile independence with functional covariate 
