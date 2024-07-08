@@ -25,7 +25,7 @@ All times are **Beijing Time**.
       + Inference for Quantile Change Points in High-Dimensional Time Series (Speaker: Mengyu Xu)
 + 15:30-17:30:
    + [Parallel Session A: Efficient Analysis in Statistics and Related Fields](https://statds.org/events/ifods2024/sessions.html#Session%203:%20Efficient%20Analysis%20in%20Statistics%20and%20Related%20Fields) (Chair: Ping Ma)
-      + Transfer Learning in High-Dimensional Network Regression Model (Speaker: Danyang Huang)
+      + Subsampling Spectral Clustering for Stochastic Block Models in Large-Scale Networks (Speaker: Danyang Huang)
       + Interval-censored linear quantile regression (Speaker: Sangbum Choi)
       + Recent developments for multi-channel factor analysis (Speaker: Haonan Wang)
       + Statistical Models for Categorical Data Analysis (Speaker: Jie Yang)

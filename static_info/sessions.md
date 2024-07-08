@@ -143,11 +143,11 @@ time-dependent coviarates into account. Thank you for inviting me to this valuab
 
 ### Session 3: Efficient Analysis in Statistics and Related Fields
 
-#### Transfer Learning in High-Dimensional Network Regression Model 
+#### Subsampling Spectral Clustering for Stochastic Block Models in Large-Scale Networks 
 
 ##### Danyang Huang, Renmin University of China
 
-<strong>Abstract:</strong> Transfer learning utilizes models from various source studies to enhance prediction accuracy in a specific target study. Although it is widely applied in the biomedical and social sciences for independent samples, its application to network data is less explored and currently lacks solid theoretical investigation. We introduce a transfer learning algorithm designed for high-dimensional linear regression on network data, with its theoretical properties thoroughly established. Theoretical analysis demonstrates superior estimation speeds compared to methods that do not incorporate source studies. Additionally, we propose a NetTrans-Lasso algorithm, which effectively identifies transferable data across networks, thereby improving learning performance through robust knowledge transfer. Our theoretical findings are corroborated by extensive simulations and a real-world social network dataset from Weibo.
+<strong>Abstract:</strong> The rapid development of science and technology has generated large amounts of network data, leading to significant computational challenges for network community detection. A novel subsampling spectral clustering algorithm is proposed to address this issue, which aims to identify community structures in large-scale networks with limited computing resources. The algorithm constructs a subnetwork by simple random subsampling from the entire network, and then extends the existing spectral clustering to the subnetwork to estimate the community labels for entire network nodes. As a result, for large-scale datasets, the method can be realized even using a personal computer. Moreover, the proposed method can be generalized in a parallel way. Theoretically, under the stochastic block model and its extension, the degree-corrected stochastic block model, the theoretical properties of the subsampling spectral clustering method are correspondingly established. Finally, to illustrate and evaluate the proposed method, a number of simulation studies and two real data analyses are conducted.
 
 
 <strong>Bio:</strong> 黄丹阳：中国人民大学统计学院教授，博士生导师。主持国家自然科学基金面上项目，北京市社会科学基金重点项目等省部级及以上科研课题，入选北京市科协青年人才托举工程，曾获北京市优秀人才培养资助。长期从事复杂网络建模、超高维数据分析、分布式计算等方向的理论研究，以及统计理论研究在中小微企业信用风险评估，企业数字化发展中的应用研究。在Journal of the Royal Statistical Society：Series B (Statistical Methodology),Journal of Econometrics, Journal of Business & Economic Statistics等国内外权威期刊发表论文30余篇。
