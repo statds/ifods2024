@@ -8,7 +8,7 @@ All times are **Beijing Time**.
 
 + 9:00-9:30: Opening Ceremony
 + 9:30-11:30: Keynote
-   + 9:30-10:30: Digital Twin of Economic Systems (Speaker:Songxi Chen, Chair: Jun Yan)
+   + 9:30-10:30: Digital Twin of Economic Systems (Speaker: Songxi Chen, Chair: Jun Yan)
    + 10:30-11:30: First Principles of Advanced Data Analysis: the Prediction Principle (Speaker: Chuanhai Liu, Chair: Xiaoling Lu)
 + 13:00-15:00: 
    + [Parallel Session A: Complex Data Analysis](https://statds.org/events/ifods2024/sessions.html#Session%201:%20Complex%20Data%20Analysis) (Chair: Zhibo Cai)
