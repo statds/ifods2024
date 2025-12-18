@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for fn in `\ls -d -1 static_info/*` ; do
+for fn in `\ls -d -1 static_info/*.md` ; do
     b=${fn%.*}
     b=${b##*/}
     pandoc --strip-comments \
